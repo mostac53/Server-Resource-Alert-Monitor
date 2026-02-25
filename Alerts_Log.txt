@@ -1,0 +1,36 @@
+[2026-02-21 20:45:16] [ALERT] Disk critical at 98.2% on C: drive.
+[2026-02-21 21:18:28] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-21 21:23:31] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-21 21:38:58] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-21 21:39:16] [ALERT] CPU critical at 100.0%. Simulated heavy process: node.exe
+[2026-02-21 21:39:16] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-21 21:43:57] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-21 21:44:25] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-21 21:45:55] [ALERT] CPU critical at 100.0%. Simulated heavy process: sqlservr.exe
+[2026-02-21 21:45:55] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-21 21:56:48] [ALERT] Disk critical at 98.2% on C: drive.
+[2026-02-21 21:58:53] [ALERT] CPU critical at 88.5%. Simulated heavy process: java.exe
+[2026-02-21 21:59:15] [ALERT] CPU critical at 100.0%. Simulated heavy process: node.exe
+[2026-02-21 21:59:15] [ALERT] Disk critical at 98.2% on C: drive.
+[2026-02-21 21:59:42] [ALERT] Disk critical at 98.2% on C: drive.
+[2026-02-21 22:09:41] [ALERT] Disk critical at 98.3% on C: drive.
+[2026-02-21 22:10:01] [ALERT] CPU critical at 100.0%. Simulated heavy process: explorer.exe
+[2026-02-21 22:10:01] [ALERT] Disk critical at 98.3% on C: drive.
+[2026-02-21 22:14:38] [ALERT] Disk critical at 98.3% on C: drive.
+[2026-02-21 22:21:06] [ALERT] CPU critical at 100.0%. Simulated heavy process: explorer.exe
+[2026-02-21 22:21:06] [ALERT] Disk critical at 98.3% on C: drive.
+[2026-02-21 22:31:03] [ALERT] Disk critical at 98.0% on C: drive.
+[2026-02-21 22:41:05] [ALERT] CPU critical at 90.1%. Simulated heavy process: chrome.exe
+[2026-02-21 22:41:13] [ALERT] CPU critical at 89.8%. Simulated heavy process: java.exe
+[2026-02-21 22:41:23] [ALERT] CPU critical at 86.3%. Simulated heavy process: java.exe
+[2026-02-21 22:43:41] [ALERT] CPU critical at 100.0%. Simulated heavy process: explorer.exe
+[2026-02-21 22:43:41] [ALERT] Disk critical at 98.0% on C: drive.
+[2026-02-21 23:38:14] [ALERT] Disk critical at 98.1% on C: drive.
+[2026-02-22 04:25:52] [ALERT] Disk critical at 98.7% on C: drive.
+[2026-02-22 05:39:53] [ALERT] Disk critical at 98.6% on C: drive.
+[2026-02-22 20:59:26] [ALERT] Disk critical at 98.8% on C: drive.
+[2026-02-22 21:10:20] [ALERT] CPU critical at 100.0%. Simulated heavy process: explorer.exe
+[2026-02-22 21:10:20] [ALERT] Disk critical at 98.8% on C: drive.
+[2026-02-22 22:35:46] [ALERT] Disk critical at 98.8% on C: drive.
+[2026-02-23 15:48:41] [ALERT] Disk critical at 99.1% on C: drive.
+[2026-02-23 17:24:39] [ALERT] Disk critical at 98.2% on C: drive.
